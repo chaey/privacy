@@ -1,0 +1,2 @@
+# privacy
+ParrotDiary Privacy URL
